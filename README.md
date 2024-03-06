@@ -8,7 +8,8 @@ ExceptionHandlingTest
 
 MockitoJUnitRunner name should be MockEmployeeTest
 
+**Task 2** : Write the format and output our log entries as JSON using Logback API - JsonEncoder
 
-**Task 2**( Optional ) : Package the java program into war and deploy into the Azure App Service ( reference - https://learn.microsoft.com/en-us/azure/app-service/deploy-zip?tabs=cli ) 
+**Task 3**( Optional ) : Package the java program into war and deploy into the Azure App Service ( reference - https://learn.microsoft.com/en-us/azure/app-service/deploy-zip?tabs=cli ) 
 
-**Task 3** ( Optional ) : Create a GitHub Actions for build and release stages for given java program. 
+**Task 4** ( Optional ) : Create a GitHub Actions for build and release stages for given java program. 
